@@ -31,6 +31,15 @@
 ### DNS Records Check
 - [https://community.riskiq.com/](https://community.riskiq.com/)
 
+### Text Online Format
+
+#### JSON Format
+- [https://www.json.cn/](https://www.json.cn/)
+#### JavaScript Format
+- [https://beautifier.io/](https://beautifier.io/)
+- [https://www.html.cn/tool/js_beautify/](https://www.html.cn/tool/js_beautify/)
+- [http://lzw.me/pages/jsbeautify/](http://lzw.me/pages/jsbeautify/)
+
 ### Subdomain Check
 - [https://securitytrails.com/](https://securitytrails.com/)
 

@@ -99,3 +99,8 @@
 
 #### 艺术文字图片制作 (word-art create)
 - [http://www.akuziti.com/](http://www.akuziti.com/)
+
+### 图标制作 (echarts create)
+- [https://www.highcharts.com.cn/demo/highcharts](https://www.highcharts.com.cn/demo/highcharts)
+- [https://www.itushuo.com/new](https://www.itushuo.com/new)
+- [https://www.echartsjs.com/zh/index.html](https://www.echartsjs.com/zh/index.html)
